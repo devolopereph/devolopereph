@@ -19,7 +19,7 @@ Hayattaki sorunlara çözüm bulmak istiyor, kendi yaşamıma ve başka yaşamla
 -->
 
 ### Daha önce tecrübe etmiş olduklarım
-[![Daha önce tecrübe etmiş olduklarım](https://skillicons.dev/icons?i=py,cs,vscode,androidstudio,unity,linux,bash,github,wordpress,html,css,notion,discord,youtube)](https://skillicons.dev)
+[![Daha önce tecrübe etmiş olduklarım](https://skillicons.dev/icons?i=py,cs,vscode,androidstudio,unity,linux,bash,github,wordpress,html,css,notion,discord,skype,teams)](https://skillicons.dev)
 
 ### Öğrenme aşamasında olduklarım
 [![Öğrenme aşamasında olduklarım](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
