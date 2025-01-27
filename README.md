@@ -25,6 +25,6 @@ Hayattaki sorunlara çözüm bulmak istiyor, kendi yaşamıma ve başka yaşamla
 [![Öğrenme aşamasında olduklarım](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Öğrenmeye can attıklarım
-[![Öğrenmeye can attıklarım](https://skillicons.dev/icons?i=js,react,kotlin,swift,androidstudio,unity,unreal)](https://skillicons.dev)
+[![Öğrenmeye can attıklarım](https://skillicons.dev/icons?i=react,js,kotlin,swift,androidstudio,unity,unreal)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff451d&textBg=false&section=footer" alt="footer"/> 
