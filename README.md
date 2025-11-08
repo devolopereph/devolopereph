@@ -19,10 +19,10 @@ Hayattaki sorunlara çözüm bulmak istiyor, kendi yaşamıma ve başka yaşamla
 -->
 
 ### Daha önce tecrübe etmiş olduklarım
-[![Daha önce tecrübe etmiş olduklarım](https://skillicons.dev/icons?i=py,cs,vscode,androidstudio,linux,bash,github,wordpress,html,css,notion)](https://skillicons.dev)
+[![Daha önce tecrübe etmiş olduklarım](https://skillicons.dev/icons?i=py,cs,vscode,androidstudio,linux,bash,github,wordpress,html,css,notion,flutter,kotlin)](https://skillicons.dev)
 
 ### Öğrenme aşamasında olduklarım
-[![Öğrenme aşamasında olduklarım](https://skillicons.dev/icons?i=flutter,kotlin,androidstudio)](https://skillicons.dev)
+[![Öğrenme aşamasında olduklarım](https://skillicons.dev/icons?i=flutter,kotlin)](https://skillicons.dev)
 
 ### Öğrenmeye can attıklarım
 [![Öğrenmeye can attıklarım](https://skillicons.dev/icons?i=react,js,swift,androidstudio,unity,unreal)](https://skillicons.dev)
