@@ -16,7 +16,6 @@
 ### 🚀 Hakkımda
 - 🔭 Ana proje merkezim: **[projects](https://github.com/devolopereph/projects)**
 - 🌍 Web, Mobil ve Otomasyon çözümleri üzerine kendimi geliştiriyorum.
-- 💡 Temiz kod ve modern yazılım mimarileri üzerine çalışıyorum.
 
 ### 🛠️ Teknolojiler
 <p align="left">
@@ -24,12 +23,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 📈 GitHub Aktivite
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devolopereph&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 📬 İletişim
@@ -39,5 +32,5 @@
 
 ---
 <p align="center">
-  <i>Sürekli öğrenmeye ve üretmeye devam...</i>
+  <i>Öğreniyor ve üretiyorum.</i>
 </p>
