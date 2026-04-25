@@ -111,8 +111,8 @@ motto: "Bir şeyler üretmek. 🔧"
 <a href="https://github.com/devolopereph/projects">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devolopereph&repo=projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="projects" />
 </a>
-<a href="https://github.com/devolopereph/not-defteri">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devolopereph&repo=not-defteri&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="not-defteri" />
+<a href="https://github.com/devolopereph/python">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devolopereph&repo=python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="python" />
 </a>
 
 </div>
