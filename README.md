@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%93%B1+Flutter+%26+Dart+ile+mobil+uygulama+geli%C5%9Ftiriyorum;%F0%9F%8E%AC+YouTube'da+AI+ile+uygulama+geli%C5%9Ftirme+videolar%C4%B1;%F0%9F%8E%AF+Google+Play'de+uygulamalar%C4%B1m+var;%F0%9F%94%A7+Bir+%C5%9Feyler+%C3%BCretmeyi+severim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%93%B1+Flutter+%26+Dart+ile+mobil+uygulama+geli%C5%9Ftiriyorum;%F0%9F%8E%AC+YouTube'da+AI+ile+neler+yap%C4%B1labilece%C4%9Fini+g%C3%B6steriyorum;%F0%9F%8E%AF+Google+Play'de+uygulamalar%C4%B1m+var;%F0%9F%94%A7+Bir+%C5%9Feyler+%C3%BCretmeyi+severim" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@ rol: Mobil Uygulama Geliştirici & YouTuber
 
 ne_yapıyorum:
   - 📱 Flutter & Dart ile mobil uygulamalar geliştirip Google Play'de yayınlıyorum
-  - 🎬 YouTube'da yapay zekaya prompt yazarak uygulama & site geliştirme sürecini gösteriyorum
+  - 🎬 YouTube'da AI ile uygulama & site geliştirme sürecini baştan sona gösteriyorum
   - 🎯 Kendi ihtiyaçlarıma göre uygulamalar geliştirip insanlarla paylaşıyorum
 
 öğreniyorum_ve_hedefliyorum:
@@ -131,7 +131,7 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
   <tr>
     <td>🎬</td>
     <td><b>Video Çekiyorum:</b></td>
-    <td>YouTube'da yapay zekaya prompt yazarak uygulama geliştirme sürecini gösteriyorum</td>
+    <td>YouTube'da AI destekli uygulama geliştirme sürecini baştan sona gösteriyorum</td>
   </tr>
   <tr>
     <td>🌱</td>
@@ -163,9 +163,9 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
 
 <br/><br/>
 
-🤖 **Yapay zekaya prompt yazarak mobil uygulama, web sitesi ve daha fazlasını nasıl geliştirdiğimi izle!**
+🤖 **AI + kod = sınırsız olasılık. Mobil uygulama, web sitesi ve dahası — hepsini sıfırdan yapıyorum.**
 <br/>
-📹 Ekran kaydı + ses kaydı ile tüm süreci adım adım gösteriyorum.
+📹 Tüm süreç ekranda, tüm açıklama sesimle. İzle, öğren, sen de yap.
 
 </div>
 
