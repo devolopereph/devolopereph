@@ -32,5 +32,5 @@
 
 ---
 <p align="center">
-  <i>Öğreniyor ve üretiyorum.</i>
+  <i>Öğreniyor, öğretiyor ve üretiyorum.</i>
 </p>
