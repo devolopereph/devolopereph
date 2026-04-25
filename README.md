@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Merhaba,%20ben%20Efe%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@devolopereph%20%7C%20Mobile%20Developer%20%7C%20AI%20Content%20Creator&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Merhaba,%20ben%20Efe%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@devolopereph%20%7C%20Mobile%20Developer%20%7C%20YouTuber&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%93%B1+Flutter+%26+Dart+ile+mobil+uygulama+geli%C5%9Ftiriyorum;%F0%9F%A4%96+AI+ile+%C3%BCretiyorum%2C+%C3%B6%C4%9Fretiyorum;%F0%9F%8E%AF+Google+Play'de+uygulamalar%C4%B1m+var;%F0%9F%9A%80+Bir+%C5%9Feyler+%C3%BCretmeyi+severim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%93%B1+Flutter+%26+Dart+ile+mobil+uygulama+geli%C5%9Ftiriyorum;%F0%9F%8E%AC+YouTube'da+AI+ile+uygulama+geli%C5%9Ftirme+videolar%C4%B1;%F0%9F%8E%AF+Google+Play'de+uygulamalar%C4%B1m+var;%F0%9F%94%A7+Bir+%C5%9Feyler+%C3%BCretmeyi+severim" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,11 +32,11 @@
 isim: Efe
 takma_ad: ephe
 konum: İstanbul, Türkiye 🇹🇷
-rol: Mobil Uygulama Geliştirici & AI İçerik Üreticisi
+rol: Mobil Uygulama Geliştirici & YouTuber
 
 ne_yapıyorum:
   - 📱 Flutter & Dart ile mobil uygulamalar geliştirip Google Play'de yayınlıyorum
-  - 🤖 YouTube'da AI ile üretim videoları çekiyorum (mobil uygulamalar, siteler vs.)
+  - 🎬 YouTube'da yapay zekaya prompt yazarak uygulama & site geliştirme sürecini gösteriyorum
   - 🎯 Kendi ihtiyaçlarıma göre uygulamalar geliştirip insanlarla paylaşıyorum
 
 öğreniyorum_ve_hedefliyorum:
@@ -46,7 +46,6 @@ ne_yapıyorum:
   - 🤖 Yapay zeka & otomasyon
   - 🎮 Oyun geliştirme
 
-vizyon: "İleride Türkiye'nin AI içerik üretim dünyasında fark yaratan bir isim olmak"
 motto: "Bir şeyler üretmeyi severim. 🔧"
 ```
 
@@ -58,16 +57,19 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
 <div align="center">
 
 ### 📱 Mobil Geliştirme
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python" />
+### 🌐 Web
+<img src="https://skillicons.dev/icons?i=nextjs,ts,js,html,css" />
+
+### 🐍 Otomasyon & Script
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### ☁️ Bulut & Veritabanı
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,supabase" />
 
-### 🔧 Araçlar & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+### 🔧 Araçlar
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 
 </div>
 
@@ -101,17 +103,6 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
 
 <br/>
 
-<!-- TROPHY -->
-## 🏆 Kupalar
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devolopereph&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
 <!-- PROJECTS -->
 ## 🚀 Öne Çıkan Projeler
 
@@ -120,8 +111,8 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
 <a href="https://github.com/devolopereph/projects">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devolopereph&repo=projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="projects" />
 </a>
-<a href="https://github.com/devolopereph/devolopereph">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devolopereph&repo=devolopereph&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="devolopereph" />
+<a href="https://github.com/devolopereph/not-defteri">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devolopereph&repo=not-defteri&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="not-defteri" />
 </a>
 
 </div>
@@ -139,8 +130,8 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
   </tr>
   <tr>
     <td>🎬</td>
-    <td><b>İçerik Üretiyorum:</b></td>
-    <td>YouTube'da AI ile uygulama & site geliştirme videoları</td>
+    <td><b>Video Çekiyorum:</b></td>
+    <td>YouTube'da yapay zekaya prompt yazarak uygulama geliştirme sürecini gösteriyorum</td>
   </tr>
   <tr>
     <td>🌱</td>
@@ -172,7 +163,9 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
 
 <br/><br/>
 
-🤖 **AI ile mobil uygulamalar, web siteleri ve daha fazlasını ürettiğim videoları izle!**
+🤖 **Yapay zekaya prompt yazarak mobil uygulama, web sitesi ve daha fazlasını nasıl geliştirdiğimi izle!**
+<br/>
+📹 Ekran kaydı + ses kaydı ile tüm süreci adım adım gösteriyorum.
 
 </div>
 
@@ -188,9 +181,8 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
 | 🏹 | Okçuluk yapıyorum |
 | 🏋️ | Fitness, yüzme ve koşu ile ilgileniyorum |
 | 📚 | Klasik kitaplar okumaya bayılırım |
-| 🎵 | Müzik dinlemeden kod yazamam |
 | ☕ | Kahve olmadan commit yok |
-| 🌙 | En iyi fikirler gece geliyor |
+| 💡 | En iyi fikirler sıkılınca geliyor |
 
 </div>
 
@@ -209,24 +201,9 @@ motto: "Bir şeyler üretmeyi severim. 🔧"
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/devolopereph" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
 <a href="mailto:devolopereph@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-</div>
-
-<br/>
-
-<!-- QUOTE -->
-<div align="center">
-
-> _"Öğrenmek sonsuz bir yolculuktur. Üretmek ise o yolculuğu anlamlı kılar."_
-> 
-> — **Efe (ephe)**
 
 </div>
 
