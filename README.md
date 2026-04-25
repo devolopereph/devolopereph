@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b33939&height=200&section=header&text=EFE%20-%20Software%20Engineer&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b33939&height=200&section=header&text=EFE&fontSize=70" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devolopereph&theme=radical&no-frame=true&column=7" alt="github trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devolopereph&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophies" /></a>
 </p>
 
 <table align="center">
@@ -17,11 +17,11 @@
   </tr>
 </table>
 
-### 🎯 Odak Noktalarım
-- **Mimari:** Clean Architecture, BLoC, Monorepo Management.
-- **Frontend:** Next.js 15, React, TypeScript.
-- **Mobil:** Cross-platform development with Flutter & Dart.
-- **Backend/Otomasyon:** Python-based automation and data management.
+### 🚀 Hakkımda
+- 🎓 **Bilgisayar Mühendisliği Öğrencisi**
+- 🔭 Ana proje merkezim: **[projects](https://github.com/devolopereph/projects)**
+- 🌍 Web, Mobil ve Otomasyon çözümleri üzerine kendimi geliştiriyorum.
+- 💡 Temiz kod ve modern yazılım mimarileri üzerine çalışıyorum.
 
 ### 🛠️ Teknolojiler
 <p align="left">
@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 📈 GitHub Aktivite
@@ -41,5 +41,9 @@
 ### 📬 İletişim
 <p align="left">
   <a href="mailto:devolopereph@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/devolopereph"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>Sürekli öğrenmeye ve üretmeye devam...</i>
 </p>
