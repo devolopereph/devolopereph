@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b33939&height=200&section=header&text=EFE&fontSize=70" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devolopereph&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophies" /></a>
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
