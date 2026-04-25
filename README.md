@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=EFE&fontSize=70&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7a0019&height=200&section=header&text=EFE&fontSize=70" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=devolopereph&show_icons=true&theme=tokyonight&rank_icon=github" alt="İstatistikler" />
+      <img src="https://github-readme-stats.vercel.app/api?username=devolopereph&show_icons=true&theme=radical&rank_icon=github" alt="İstatistikler" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolopereph&layout=compact&theme=tokyonight" alt="Diller" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolopereph&layout=compact&theme=radical" alt="Diller" />
     </td>
   </tr>
 </table>
@@ -31,10 +31,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devolopereph/devolopereph/main/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 <p align="center">
   <i>Öğreniyor ve üretiyorum.</i>
 </p>
