@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=devolopereph&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Learner%20%7C%20Creator%20%7C%20Teacher&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Merhaba,%20ben%20Efe%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@devolopereph%20%7C%20Mobile%20Developer%20%7C%20AI%20Content%20Creator&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Dart;%F0%9F%8C%8D+Learning+%E2%80%A2+Creating+%E2%80%A2+Teaching;%F0%9F%9A%80+Turning+ideas+into+pixel-perfect+apps;%F0%9F%92%A1+Passionate+about+clean+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%93%B1+Flutter+%26+Dart+ile+mobil+uygulama+geli%C5%9Ftiriyorum;%F0%9F%A4%96+AI+ile+%C3%BCretiyorum%2C+%C3%B6%C4%9Fretiyorum;%F0%9F%8E%AF+Google+Play'de+uygulamalar%C4%B1m+var;%F0%9F%9A%80+Bir+%C5%9Feyler+%C3%BCretmeyi+severim" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=devolopereph&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=devolopereph&label=Profil%20G%C3%B6r%C3%BCnt%C3%BCleme&color=6e40c9&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/devolopereph?tab=followers">
-  <img src="https://img.shields.io/github/followers/devolopereph?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/devolopereph?label=Takip%C3%A7iler&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Followers" />
 </a>
 &nbsp;
-<a href="https://github.com/devolopereph?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/devolopereph?label=Stars&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Stars" />
+<a href="https://www.youtube.com/@epheai">
+  <img src="https://img.shields.io/badge/YouTube-epheai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
 </div>
@@ -29,48 +29,44 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hakkımda
 
 ```yaml
-name: devolopereph
-located_in: Türkiye 🇹🇷
-current_role: Mobile Developer
+isim: Efe
+takma_ad: ephe
+konum: İstanbul, Türkiye 🇹🇷
+rol: Mobil Uygulama Geliştirici & AI İçerik Üreticisi
 
-fields_of_interest:
-  - Mobile App Development
-  - Cross-Platform Solutions
-  - UI/UX Design
-  - Backend Development
-  - Automation & DevOps
+ne_yapıyorum:
+  - 📱 Flutter & Dart ile mobil uygulamalar geliştirip Google Play'de yayınlıyorum
+  - 🤖 YouTube'da AI ile üretim videoları çekiyorum (mobil uygulamalar, siteler vs.)
+  - 🎯 Kendi ihtiyaçlarıma göre uygulamalar geliştirip insanlarla paylaşıyorum
 
-currently_learning:
-  - Advanced Flutter Architectures
-  - Native iOS & Android Development
-  - Cloud & Backend Services
+öğreniyorum_ve_hedefliyorum:
+  - 🍎 iOS tarafına geçmek (App Store'da da yayın yapmak)
+  - 🌐 Web geliştirme & backend altyapıları
+  - 🗄️ Veritabanı yönetimi & mimari
+  - 🤖 Yapay zeka & otomasyon
+  - 🎮 Oyun geliştirme
 
-motto: "Öğren, Üret, Öğret — Tekrarla. 🔁"
-
-fun_facts:
-  - 🧩 Kod yazarken müzik dinlemeden yapamam
-  - 🌙 Gece kuşuyum — en iyi fikirler gece gelir
-  - 📚 Her gün en az bir yeni şey öğrenmeye çalışırım
-  - ☕ Kahve olmadan commit yok
+vizyon: "İleride Türkiye'nin AI içerik üretim dünyasında fark yaratan bir isim olmak"
+motto: "Bir şeyler üretmeyi severim. 🔧"
 ```
 
 <br/>
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack & Araçlar
+## 🛠️ Teknoloji & Araçlar
 
 <div align="center">
 
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio" />
+### 📱 Mobil Geliştirme
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
 
 ### 🌐 Web & Backend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python" />
 
-### ☁️ Cloud & Database
+### ☁️ Bulut & Veritabanı
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres" />
 
-### 🔧 Tools & DevOps
+### 🔧 Araçlar & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
 
 </div>
@@ -82,13 +78,13 @@ fun_facts:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devolopereph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devolopereph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&locale=tr" alt="GitHub Stats" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devolopereph&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devolopereph&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&locale=tr" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolopereph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolopereph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8&locale=tr" alt="Top Languages" />
 
 </div>
 
@@ -99,14 +95,14 @@ fun_facts:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devolopereph&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area_color=6e40c9&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devolopereph&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area_color=6e40c9&area=true&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" width="95%" alt="Contribution Graph" />
 
 </div>
 
 <br/>
 
 <!-- TROPHY -->
-## 🏆 GitHub Trophies
+## 🏆 Kupalar
 
 <div align="center">
 
@@ -138,35 +134,70 @@ fun_facts:
 <table align="center">
   <tr>
     <td>🔭</td>
-    <td><b>Üzerinde Çalışıyorum:</b></td>
-    <td>Flutter ile cross-platform mobil uygulamalar geliştiriyorum</td>
+    <td><b>Geliştiriyorum:</b></td>
+    <td>Flutter ile mobil uygulamalar — Google Play'de yayınlıyorum</td>
+  </tr>
+  <tr>
+    <td>🎬</td>
+    <td><b>İçerik Üretiyorum:</b></td>
+    <td>YouTube'da AI ile uygulama & site geliştirme videoları</td>
   </tr>
   <tr>
     <td>🌱</td>
     <td><b>Öğreniyorum:</b></td>
-    <td>Advanced state management, clean architecture & backend</td>
+    <td>iOS geliştirme, backend, veritabanı, otomasyon & AI</td>
   </tr>
   <tr>
-    <td>👨‍🏫</td>
-    <td><b>Öğretiyorum:</b></td>
-    <td>Öğrendiklerimi toplulukla paylaşıyorum</td>
+    <td>🎮</td>
+    <td><b>Keşfediyorum:</b></td>
+    <td>Oyun geliştirme dünyasına adım atmak istiyorum</td>
   </tr>
   <tr>
     <td>💬</td>
-    <td><b>Sohbet Edelim:</b></td>
-    <td>Flutter, Dart, Mobile Dev, UI/UX hakkında konuşalım!</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><b>Fun Fact:</b></td>
-    <td>Bir problemi çözmek için 2 saat harcayıp, çözümü 2 dakikada bulmak benim sporum 😄</td>
+    <td><b>Konuşalım:</b></td>
+    <td>Flutter, Dart, AI, mobil geliştirme — her zaman açığım!</td>
   </tr>
 </table>
 
 <br/>
 
+<!-- YOUTUBE -->
+## 🎬 YouTube — epheai
+
+<div align="center">
+
+<a href="https://www.youtube.com/@epheai">
+  <img src="https://img.shields.io/badge/YouTube-epheai-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" />
+</a>
+
+<br/><br/>
+
+🤖 **AI ile mobil uygulamalar, web siteleri ve daha fazlasını ürettiğim videoları izle!**
+
+</div>
+
+<br/>
+
+<!-- FUN FACTS -->
+## ⚡ Beni Tanı
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🏹 | Okçuluk yapıyorum |
+| 🏋️ | Fitness, yüzme ve koşu ile ilgileniyorum |
+| 📚 | Klasik kitaplar okumaya bayılırım |
+| 🎵 | Müzik dinlemeden kod yazamam |
+| ☕ | Kahve olmadan commit yok |
+| 🌙 | En iyi fikirler gece geliyor |
+
+</div>
+
+<br/>
+
 <!-- CONNECT WITH ME -->
-## 🤝 Bağlantılar
+## 🤝 Bana Ulaş
 
 <div align="center">
 
@@ -174,30 +205,17 @@ fun_facts:
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:devolopereph@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://www.youtube.com/@epheai" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/devolopereph" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://twitter.com/devolopereph" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<a href="mailto:devolopereph@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devolopereph/devolopereph/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devolopereph/devolopereph/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/devolopereph/devolopereph/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -206,7 +224,9 @@ fun_facts:
 <!-- QUOTE -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Öğrenmek%20sonsuz%20bir%20yolculuktur.%20Öğretmek%20ise%20o%20yolculuğu%20anlamlı%20kılar.&author=devolopereph" alt="Quote" />
+> _"Öğrenmek sonsuz bir yolculuktur. Üretmek ise o yolculuğu anlamlı kılar."_
+> 
+> — **Efe (ephe)**
 
 </div>
 
